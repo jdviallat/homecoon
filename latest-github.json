@@ -1,0 +1,7 @@
+{
+  "version": "0.11.0",
+  "url": "https://github.com/jdviallat/homecoon/releases/download/v0.11.0/Homecoon-0.11.0.apk",
+  "notes": "Première ouverture guidée, étiquettes libres, marqueurs de photo numérotés, gestion des photos, assistance par IA facultative. Version de développement : l'application n'est pas encore publiée sur les stores.",
+  "obligatoire": false,
+  "minVersion": "0.1.0"
+}
