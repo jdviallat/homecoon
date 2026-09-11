@@ -1,5 +1,20 @@
 # Journal des versions — Homecoon
 
+## 0.12.0 — 11 septembre 2026
+
+**Les étiquettes à coller.**
+
+- **Planches d'étiquettes vierges** (24, 48, 96) : on colle d'abord, on rattache après.
+  Chaque impression tire des codes neufs.
+- **Scanner une étiquette la rattache** à un objet ou à un lieu — étiquette Homecoon, code-barres,
+  n'importe quel code. Si elle désigne déjà autre chose, l'app le dit.
+- **Un QR imprimé se scanne aussi avec l'appareil photo du téléphone.** C'était cassé.
+- **Trente-trois types de lieux** par famille : placard, dressing, buffet, vaisselier, meuble TV,
+  table de chevet, bureau, lit, établi, cave à vin, coffre, caisse à outils…
+- **Première ouverture : quinze pièces à cocher**, avec le coût annoncé avant de créer.
+- **Jusqu'à dix photos d'un coup** sur une pièce ou un objet.
+- **Périssable dès la création** : la date crée le premier lot, ou se lit sur l'emballage.
+
 ## 0.11.0 — 10 septembre 2026
 
 **Première version installable.**
