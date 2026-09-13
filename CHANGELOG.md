@@ -1,5 +1,10 @@
 # Journal des versions — Homecoon
 
+## 0.12.1 — 13 septembre 2026
+
+- **Vérification des mises à jour** au lancement (une fois par jour, « plus tard » respecté) et
+  bouton dans les Réglages. Première version à le faire : la 0.12.0 ne préviendra pas de celle-ci.
+
 ## 0.12.0 — 11 septembre 2026
 
 **Les étiquettes à coller.**
