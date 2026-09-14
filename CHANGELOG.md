@@ -1,5 +1,17 @@
 # Journal des versions — Homecoon
 
+## 0.14.0 — 15 septembre 2026
+
+**Le carnet chiffré, fermé.**
+
+- **Corbeille** : trente jours pour se raviser, un lieu revient avec ce qui est parti avec lui,
+  puis effacement réel (photos et documents compris).
+- **Courses** : un rappel le samedi matin quand la liste n'est pas vide.
+- **Plusieurs maisons** : résidence secondaire, box, cave d'immeuble ; sélecteur dans Lieux dès
+  qu'il y a de quoi choisir.
+- **Étiquettes NFC** : écriture depuis les fiches, ouverture de la fiche en approchant le téléphone
+  (même app fermée sur Android), lecture au scanner. Non essayé sur émulateur — retours bienvenus.
+
 ## 0.13.0 — 14 septembre 2026
 
 **L'app te prévient, ne perd rien, et sait ce qui manque.**
