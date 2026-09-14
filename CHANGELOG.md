@@ -1,5 +1,21 @@
 # Journal des versions — Homecoon
 
+## 0.13.0 — 14 septembre 2026
+
+**L'app te prévient, ne perd rien, et sait ce qui manque.**
+
+- **Rappels** : péremption (la veille), prêt à récupérer (la veille du retour), garantie qui
+  expire (30 j, 7 j, la veille), croquettes (3 j avant la rupture). Une notification par jour et
+  par sujet, vers 9 h ; la toucher ouvre le bon écran. Un interrupteur par sujet dans les Réglages.
+- **Sauvegarde automatique** quand on quitte l'app, si quelque chose a changé, au plus une par
+  heure, sept conservées, vers un dossier choisi (Drive, carte SD…).
+- **L'archive `.homecoon` est de nouveau complète** : lots, prêts, animaux, documents, étiquettes
+  et marqueurs y manquaient depuis la 0.6.
+- **Contrôle d'inventaire** : « Vérifier ce lieu », on scanne (ou on coche), l'app dit ce qui
+  manque, met les prêts à part, propose de déplacer ici ce qui est vu ailleurs et de déclarer
+  introuvable le reste.
+- La date de retour d'un prêt se saisit sur la fiche de l'objet.
+
 ## 0.12.1 — 13 septembre 2026
 
 - **Vérification des mises à jour** au lancement (une fois par jour, « plus tard » respecté) et
