@@ -1,5 +1,16 @@
 # Journal des versions — Homecoon
 
+## 0.15.0 — 16 septembre 2026
+
+**Une photo, et la fiche se remplit.**
+
+- **Fiche depuis une photo** : codes et texte lus sur l'appareil, base produit, vision IA si
+  clé posée (produit > IA > texte) ; la photo devient la couverture ; un QR de lieu pré-choisit
+  l'emplacement, un QR d'objet existant propose de l'ouvrir.
+- **Tout se modifie** : 7 champs d'objet et 2 de lieu qui étaient stockés sans être éditables.
+- **Mises à jour vérifiées à chaque ouverture** et au retour au premier plan, état dans Réglages.
+- Corrigé : modifier un objet prêté le remettait « en place » ; marque répétée sous le nom.
+
 ## 0.14.0 — 15 septembre 2026
 
 **Le carnet chiffré, fermé.**
