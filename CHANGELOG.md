@@ -1,5 +1,11 @@
 # Journal des versions — Homecoon
 
+## 0.15.1 — 20 septembre 2026
+
+- Version de vérification : rien de nouveau sur Android, elle sert à confirmer que la mise à jour
+  automatique parvient aux utilisateurs de la 0.15.0.
+- Première compilation iOS, captures App Store ; sur iPhone, canal App Store (jamais d'APK proposé).
+
 ## 0.15.0 — 16 septembre 2026
 
 **Une photo, et la fiche se remplit.**
