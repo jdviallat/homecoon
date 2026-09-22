@@ -1,5 +1,20 @@
 # Journal des versions — Homecoon
 
+## 0.16.0 — 22 septembre 2026
+
+**Le verrou à l'ouverture, et des photos qui se recadrent toutes seules.**
+
+- **Code à 6 chiffres** demandé à l'ouverture, avec l'empreinte ou le visage si vous préférez.
+  Délai de reverrouillage réglable : tout de suite, 1, 5 ou 15 minutes.
+- Dit franchement : **ce code protège l'écran, pas le fichier.** Homecoon n'est pas un coffre ;
+  pour des papiers sensibles, c'est SafeCoon qui chiffre tout.
+- Trois essais libres puis une attente qui double — et **rien n'est jamais effacé** : si le code
+  est oublié, c'est la sauvegarde qui rend l'inventaire.
+- **Recadrage proposé** après chaque photo ajoutée : l'objet est repéré, le cadre se resserre
+  autour **sans imposer de carré**, avant / après à l'écran, « Garder entière » toujours possible.
+- **La vignette s'ouvre en grand** depuis la fiche : photo principale, recadrer, supprimer.
+- Le sélecteur de galerie ne fait plus redemander le code au retour.
+
 ## 0.15.1 — 20 septembre 2026
 
 - Version de vérification : rien de nouveau sur Android, elle sert à confirmer que la mise à jour
