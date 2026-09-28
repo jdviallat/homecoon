@@ -1,7 +1,7 @@
 {
-  "version": "0.16.0",
-  "url": "https://github.com/jdviallat/homecoon/releases/download/v0.16.0/Homecoon-0.16.0.apk",
-  "notes": "Code à 6 chiffres (et empreinte ou visage) à l'ouverture, avec un délai réglable — il protège l'écran, pas le fichier. Photos recadrées sur proposition : Homecoon repère l'objet et resserre autour, sans imposer de carré ; vous gardez le dernier mot. La vignette d'une photo s'ouvre maintenant en grand.",
+  "version": "0.17.0",
+  "url": "https://github.com/jdviallat/homecoon/releases/download/v0.17.0/Homecoon-0.17.0.apk",
+  "notes": "Ranger un objet se fait en descendant dans la maison : l'adresse, puis la pièce, puis le meuble, puis l'étage — et vous vous arrêtez où vous voulez. Le rangement qui manque se crée sans quitter la fiche, 3, 6 ou 12 d'un coup. « Encore : Table de chevet 2 » crée le voisin du même type. Les lieux se parcourent en cartes, et une maison peut porter son adresse.",
   "obligatoire": false,
   "minVersion": "0.1.0"
 }
