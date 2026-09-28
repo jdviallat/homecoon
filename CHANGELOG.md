@@ -1,5 +1,20 @@
 # Journal des versions — Homecoon
 
+## 0.17.0 — 27 septembre 2026
+
+**Se balader dans la maison.**
+
+- **Le rangement se choisit un cran à la fois** : l'adresse, puis la pièce, puis le meuble, puis
+  l'étage. On s'arrête où l'on veut — « dans le garage » est une réponse valable — et le chemin
+  reste touchable en entier pour remonter.
+- **Créer sans quitter la fiche** : le niveau d'étagère qui manque se fabrique par-dessus le
+  formulaire, 1, 3, 6 ou 12 d'un coup, avec les noms montrés avant. Rien de saisi n'est perdu.
+- **« Encore : Table de chevet 2 »** : un bouton crée le voisin du même type et le numérote. Celui
+  qui existe n'est jamais renommé — l'étiquette déjà collée dessus reste juste.
+- **Les lieux en cartes**, avec photo et contenu : une pièce annonce les objets de toute sa
+  branche. L'arborescence reste à un appui.
+- **Une adresse sur une maison**, pour le garage ou le box qui est ailleurs.
+
 ## 0.16.0 — 22 septembre 2026
 
 **Le verrou à l'ouverture, et des photos qui se recadrent toutes seules.**
